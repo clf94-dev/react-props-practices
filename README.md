@@ -1,2 +1,2 @@
-# react-props-practices
+# react-props-practice
 Created with CodeSandbox
